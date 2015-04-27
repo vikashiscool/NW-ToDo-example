@@ -1,0 +1,16 @@
+{
+  "name": "todo-list-NW",
+  "version": "0.0.0",
+  "homepage": "https://github.com/vikashiscool/project3",
+  "authors": [
+    "vikashiscool <vikash_parekh@yahoo.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
